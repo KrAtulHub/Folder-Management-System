@@ -18,13 +18,4 @@ A simple, menu-driven Command Line Interface (CLI) tool built with Python to han
 
 ---
 
-## 🚀 Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-You need to have Python installed on your computer. You can check this by running:
-
-```bash
-python --version
